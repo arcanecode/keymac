@@ -52,11 +52,13 @@ To put keyboard into edit mode:
 3. Hold down the Profile Key (upper right) on macro keyboard until the green light starts flashing.
 4. Software should go into Edit mode.
 
-After editing a profile page, make sure to click the Save Profiles button!!
+After editing a profile page, click the Save Profiles Onboard! You need to do this after editing each page, or sometimes the software will lose the changes to that profile page.
 
-When done, save the profile one more. Then use the Save Backup to save your settings.
+When done, save the profile one more. 
 
-Finally, use Close and Reboot to restart the keyboard, which will exit the keyboard from edit mode.
+While optional, you should use the Backup Profiles button to save your settings to disk, just in case.
+
+Finally, use Close & Reboot to restart the keyboard, which will exit the keyboard from edit mode.
 
 ## String Keys
 
