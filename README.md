@@ -1,6 +1,6 @@
 # Keyboard Macro Chart
 
-## Profile 0
+## Profile 0 (White)
 
 |     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |-----|---|---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@
 | **5** | <span title="Ctrl + A">[Ctrl+A](ca://s?q=Edit_A71)</span> | <span title="Ctrl + C">[Ctrl+C](ca://s?q=Edit_A72)</span> | <span title="Ctrl+X">[Ctrl+X](ca://s?q=Edit_A73)</span> | <span title="Ctrl+V">[Ctrl+V](ca://s?q=Edit_A74)</span> | <span title="Up Arrow 25 Times">[Up 25](ca://s?q=Edit_A75)</span> | <span title="Down Arrow 25 Times">[Down 25](ca://s?q=Edit_A76)</span> | <span title="Ctrl+Shift+Plus - Zoom In">[Zoom In](ca://s?q=Edit_A87)</span> | <span title="Ctrl Minus - Zoom Out">[Zoom Out](ca://s?q=Edit_A88)</span> |
 | **6** | <span title="Ctrl+Win+Left - Left one desktop">[Desktop Left](ca://s?q=Edit_A81)</span> | <span title="Ctrl+Win+Right - Right one desktop">[Desktop Right](ca://s?q=Edit_A82)</span> | <span title="Shift+Win+Left Window to Next Left Desktop">[Window Left](ca://s?q=Edit_A83)</span> | <span title="Shift+Win+Right Window to Next Right Desktop">[Window Right](ca://s?q=Edit_A84)</span> | <span title="Ctrl+Alt_Home">[Ctrl Alt Home](ca://s?q=Edit_A85)</span> | <span title="Alt+Tab">[Alt+Tab](ca://s?q=Edit_A86)</span> | <span title="Move Left 5 Desktops">[Desktop Left x5](ca://s?q=Edit_A77)</span> | <span title="Move Right 5 Desktops">[Desktop Right x5](ca://s?q=Edit_A78)</span> |
 
-## Profile 1
+## Profile 1 (Green)
 
 |     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |-----|---|---|---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | **5** | <span title="Ctrl + A">[Ctrl+A](ca://s?q=Edit_A71)</span> | <span title="Ctrl + C">[Ctrl+C](ca://s?q=Edit_A72)</span> | <span title="Ctrl+X">[Ctrl+X](ca://s?q=Edit_A73)</span> | <span title="Ctrl+V">[Ctrl+V](ca://s?q=Edit_A74)</span> | <span title="Up Arrow 25 Times">[Up 25](ca://s?q=Edit_A75)</span> | <span title="Down Arrow 25 Times">[Down 25](ca://s?q=Edit_A76)</span> | <span title="Ctrl+Shift+Plus - Zoom In">[Zoom In](ca://s?q=Edit_A87)</span> | <span title="Ctrl Minus - Zoom Out">[Zoom Out](ca://s?q=Edit_A88)</span> |
 | **6** | <span title="Ctrl+Win+Left - Left one desktop">[Desktop Left](ca://s?q=Edit_A81)</span> | <span title="Ctrl+Win+Right - Right one desktop">[Desktop Right](ca://s?q=Edit_A82)</span> | <span title="Shift+Win+Left Window to Next Left Desktop">[Window Left](ca://s?q=Edit_A83)</span> | <span title="Shift+Win+Right Window to Next Right Desktop">[Window Right](ca://s?q=Edit_A84)</span> | <span title="Ctrl+Alt_Home">[Ctrl Alt Home](ca://s?q=Edit_A85)</span> | <span title="Alt+Tab">[Alt+Tab](ca://s?q=Edit_A86)</span> | <span title="Move Left 5 Desktops">[Desktop Left x5](ca://s?q=Edit_A77)</span> | <span title="Move Right 5 Desktops">[Desktop Right x5](ca://s?q=Edit_A78)</span> |
 
-## Profile 2
+## Profile 2 (Red)
 
 |     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |-----|---|---|---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | **5** | <span title="Ctrl + A">[Ctrl+A](ca://s?q=Edit_A71)</span> | <span title="Ctrl + C">[Ctrl+C](ca://s?q=Edit_A72)</span> | <span title="Ctrl+X">[Ctrl+X](ca://s?q=Edit_A73)</span> | <span title="Ctrl+V">[Ctrl+V](ca://s?q=Edit_A74)</span> | <span title="Up Arrow 25 Times">[Up 25](ca://s?q=Edit_A75)</span> | <span title="Down Arrow 25 Times">[Down 25](ca://s?q=Edit_A76)</span> | <span title="Ctrl+Shift+Plus - Zoom In">[Zoom In](ca://s?q=Edit_A87)</span> | <span title="Ctrl Minus - Zoom Out">[Zoom Out](ca://s?q=Edit_A88)</span> |
 | **6** | <span title="Ctrl+Win+Left - Left one desktop">[Desktop Left](ca://s?q=Edit_A81)</span> | <span title="Ctrl+Win+Right - Right one desktop">[Desktop Right](ca://s?q=Edit_A82)</span> | <span title="Shift+Win+Left Window to Next Left Desktop">[Window Left](ca://s?q=Edit_A83)</span> | <span title="Shift+Win+Right Window to Next Right Desktop">[Window Right](ca://s?q=Edit_A84)</span> | <span title="Ctrl+Alt_Home">[Ctrl Alt Home](ca://s?q=Edit_A85)</span> | <span title="Alt+Tab">[Alt+Tab](ca://s?q=Edit_A86)</span> | <span title="Move Left 5 Desktops">[Desktop Left x5](ca://s?q=Edit_A77)</span> | <span title="Move Right 5 Desktops">[Desktop Right x5](ca://s?q=Edit_A78)</span> |
 
-## Profile 3
+## Profile 3 (Flashing Green)
 
 |     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 |-----|---|---|---|---|---|---|---|---|
