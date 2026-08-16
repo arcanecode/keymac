@@ -43,3 +43,41 @@
 | **4** | <span title="-">[-](ca://s?q=Edit_A21)</span> | <span title="-">[-](ca://s?q=Edit_A22)</span> | <span title="-">[-](ca://s?q=Edit_A23)</span> | <span title="-">[-](ca://s?q=Edit_A24)</span> | <span title="-">[-](ca://s?q=Edit_A25)</span>  | <span title="-">[-](ca://s?q=Edit_A45)</span> | <span title="-">[-](ca://s?q=Edit_A46)</span> | <span title="-">[-](ca://s?q=Edit_A47)</span> | <span title="-">[-](ca://s?q=Edit_A48)</span> |
 | **5** | <span title="Ctrl + A">[Ctrl+A](ca://s?q=Edit_A71)</span> | <span title="Ctrl + C">[Ctrl+C](ca://s?q=Edit_A72)</span> | <span title="Ctrl+X">[Ctrl+X](ca://s?q=Edit_A73)</span> | <span title="Ctrl+V">[Ctrl+V](ca://s?q=Edit_A74)</span> | <span title="Up Arrow 25 Times">[Up 25](ca://s?q=Edit_A75)</span> | <span title="Down Arrow 25 Times">[Down 25](ca://s?q=Edit_A76)</span> | <span title="Ctrl+Shift+Plus - Zoom In">[Zoom In](ca://s?q=Edit_A87)</span> | <span title="Ctrl Minus - Zoom Out">[Zoom Out](ca://s?q=Edit_A88)</span> |
 | **6** | <span title="Ctrl+Win+Left - Left one desktop">[Desktop Left](ca://s?q=Edit_A81)</span> | <span title="Ctrl+Win+Right - Right one desktop">[Desktop Right](ca://s?q=Edit_A82)</span> | <span title="Shift+Win+Left Window to Next Left Desktop">[Window Left](ca://s?q=Edit_A83)</span> | <span title="Shift+Win+Right Window to Next Right Desktop">[Window Right](ca://s?q=Edit_A84)</span> | <span title="Ctrl+Alt_Home">[Ctrl Alt Home](ca://s?q=Edit_A85)</span> | <span title="Alt+Tab">[Alt+Tab](ca://s?q=Edit_A86)</span> | <span title="Move Left 5 Desktops">[Desktop Left x5](ca://s?q=Edit_A77)</span> | <span title="Move Right 5 Desktops">[Desktop Right x5](ca://s?q=Edit_A78)</span> |
+
+## Hints
+
+To put keyboard into edit mode:
+1. Open the Keyboard App.
+2. Make sure it has the focus in Windows.
+3. Hold down the Profile Key (upper right) on macro keyboard until the green light starts flashing.
+4. Software should go into Edit mode.
+
+After editing a profile page, make sure to click the Save Profiles button!!
+
+When done, save the profile one more. Then use the Save Backup to save your settings.
+
+Finally, use Close and Reboot to restart the keyboard, which will exit the keyboard from edit mode.
+
+## String Keys
+
+How to enter special keys into the string function option.
+
+| Key | Shortcut | Key | Shortcut |
+| --- | --- | --- | --- |
+| ^ | ^^ | 1  (Num Pad) | ^1 |
+| Backspace | ^b | 2 (Num Pad) | ^2 |
+| Tab | ^t | 3 (Num Pad) | ^3 |
+| Enter | ^e | 4 (Num Pad) | ^4 |
+| Up Arrow | ^U | 5 (Num Pad) | ^5 |
+| Down Arrow | ^D | 6 (Num Pad) | ^6 |
+| Right Arrow | ^R | 7 (Num Pad) | ^7 |
+| Left Arrow | ^L | 8 (Num Pad) | ^8 |
+| Left Shift | ^s | 9 (Num Pad) | ^9 |
+| Left Ctrl | ^c | + (Num Pad) | ^+ |
+| Left Win | ^w | - (Num Pad) | ^- |
+| Left Alt | ^a | * (Num Pad) | ^* |
+| NumLock | ^N | / (Num Pad) | ^/ |
+| 0 (Num Pad) | ^0 | Enter (Num Pad) | ^E |
+| . (Num Pad) | ^. |  |  |
+
+Shorts are *case sensitive*, so be careful when entering.
